@@ -1,0 +1,10 @@
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\bin\Debug\Projeto 4 - HTTP.exe.config
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\bin\Debug\Projeto 4 - HTTP.exe
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\bin\Debug\Projeto 4 - HTTP.pdb
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\obj\Debug\Projeto 4 - HTTP.csprojAssemblyReference.cache
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\obj\Debug\Projeto 4 - HTTP.csproj.CoreCompileInputs.cache
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\obj\Debug\Projeto 4 - HTTP.exe
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\obj\Debug\Projeto 4 - HTTP.pdb
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\bin\Debug\Newtonsoft.Json.dll
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\bin\Debug\Newtonsoft.Json.xml
+D:\Desktop\CarreiraUnica\Projeto 4 - HTTP\Projeto 4 - HTTP\obj\Debug\Projeto 4 - HTTP.csproj.CopyComplete
